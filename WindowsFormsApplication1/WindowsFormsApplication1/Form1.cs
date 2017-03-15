@@ -161,5 +161,12 @@ namespace WindowsFormsApplication1
         {
 
         }
+
+        private void button4_Click(object sender, EventArgs e)
+        {
+            Form0 frm = new Form0();
+            frm.Show();
+            this.Hide();
+        }
     }
 }

@@ -7,6 +7,14 @@ M:\PS\Laborator2-tema\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debu
 M:\PS\Laborator2-tema\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
 M:\PS\Laborator2-tema\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
 M:\PS\Laborator2-tema\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\MySql.Data.dll
+M:\Laboratory2\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+M:\Laboratory2\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\MySql.Data.dll
 M:\Laboratory2\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+M:\Laboratory2\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form0.resources
+M:\Laboratory2\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+M:\Laboratory2\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+M:\Laboratory2\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
 M:\Laboratory2\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
 M:\Laboratory2\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+M:\Laboratory2\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+M:\Laboratory2\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
