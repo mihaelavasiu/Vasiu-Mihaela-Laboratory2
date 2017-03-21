@@ -1,0 +1,8 @@
+M:\Laboratory2\WindowsFormsApplication1\Application.Tests\bin\Debug\Application.Tests.dll
+M:\Laboratory2\WindowsFormsApplication1\Application.Tests\bin\Debug\Application.Tests.pdb
+M:\Laboratory2\WindowsFormsApplication1\Application.Tests\bin\Debug\WindowsFormsApplication1.exe
+M:\Laboratory2\WindowsFormsApplication1\Application.Tests\bin\Debug\MySql.Data.dll
+M:\Laboratory2\WindowsFormsApplication1\Application.Tests\bin\Debug\WindowsFormsApplication1.pdb
+M:\Laboratory2\WindowsFormsApplication1\Application.Tests\obj\Debug\Application.Tests.csprojResolveAssemblyReference.cache
+M:\Laboratory2\WindowsFormsApplication1\Application.Tests\obj\Debug\Application.Tests.dll
+M:\Laboratory2\WindowsFormsApplication1\Application.Tests\obj\Debug\Application.Tests.pdb
